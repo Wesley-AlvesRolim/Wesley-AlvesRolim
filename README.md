@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning HTML && CSS && JavaScript
 - 🔭 I am not working at any company right now
 - 📫 How to reach me: Discord => Wesley Alves Rolim #2960
+- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/wesley-alves-rolim-2bba1b209/)
 
 **Languages and Tools:**
 
