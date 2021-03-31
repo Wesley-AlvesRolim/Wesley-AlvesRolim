@@ -20,6 +20,9 @@ and in my [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<a href="https://github.com/Wesley-AlvesRolim?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AlvesRolim&layout=compact&theme=material-palenight" />
+<a href="https://github.com/Wesley-AlvesRolim?tab=repositories" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wesley-AlvesRolim&show_icons=true&theme=tokyonight"/>
+</a>
+<a href="https://github.com/Wesley-AlvesRolim?tab=repositories" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AlvesRolim&layout=compact&theme=material-palenight"/>
 </a>
