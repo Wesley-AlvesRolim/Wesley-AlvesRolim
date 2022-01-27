@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a passionate Front-End web developer.</h3>
 
-- 🌱 I’m currently learning Sass | Webpack | Node.Js | MongoDb
+- 🌱 I’m currently learning Node.Js | ReactJs
 - 🔭 I am not working at any company right now
 - 📫 How to reach me: Discord => Wesley Alves Rolim #2960
 and in my [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/wesley-alves-rolim-2bba1b209/)](https://www.linkedin.com/in/wesley-alves-rolim-2bba1b209/)
