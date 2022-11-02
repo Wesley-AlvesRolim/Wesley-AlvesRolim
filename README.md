@@ -2,8 +2,8 @@
 
 <h3 align="center">I'm a passionate Front-End web developer.</h3>
 
-- 🌱 I’m learning about: Node.Js | GraphQL | ReactJs | TDD | Clean Arch | SOLID | Clean Code
-- 🔭 I am not working at any company right now, but you can contact me using some service from the "How to reach me" section below.
+- 🌱 I’m learning about: ReactJs | TDD | Clean Arch | SOLID | Clean Code | Python | Django
+- 🔭 I'm currently working with Front-End Development. And, right now, I'm constantly studying and delivering efficient solutions.
 
 <br>
 
@@ -15,6 +15,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+<code><img height="35" src="https://github.com/devicons/devicon/raw/master/icons/materialui/materialui-plain.svg"></code>
 <code><img height="35" src="https://styled-components.com/logo.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></code>
 <code><img height="35" src="https://vitejs.dev/logo.svg"></code>
@@ -30,6 +31,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
+<code><img height="35" src="https://neovim.io/favicon.ico"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 
@@ -40,6 +42,9 @@
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="35" src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg"></code>
+<code><img height="35" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"></code>
+<code><img height="35" src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg"></code>
 
