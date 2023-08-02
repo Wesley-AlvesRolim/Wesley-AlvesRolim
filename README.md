@@ -59,7 +59,7 @@
 <br>
 
 <a href="https://github.com/Wesley-AlvesRolim?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wesley-AlvesRolim&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wesley-AlvesRolim&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true"/>
 </a>
 
 <a href="https://github.com/Wesley-AlvesRolim?tab=repositories">
